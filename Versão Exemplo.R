@@ -1,1 +1,5 @@
-#VERS√ÉO 1 
+#VERS√O 1 
+#VERS√O 2 
+#VERS√O 3 
+#VERS√O 4
+library(tidyverse)
