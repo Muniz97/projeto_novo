@@ -1,5 +1,6 @@
-#VERSﾃO 1 
-#VERSﾃO 2 
-#VERSﾃO 3 
-#VERSﾃO 4
+#VERSﾃグ 1 
+#VERSﾃグ 2 
+#VERSﾃグ 3 
+#VERSﾃグ 4
+#VERSﾃグ  5 xablau ﾃｩ nois teste
 library(tidyverse)
